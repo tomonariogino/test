@@ -1,0 +1,24 @@
+body {
+    background: #ccc;
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, 'BlinkMacSystemFont', Sans-Serif;
+    letter-spacing: 0.03rem;
+}
+
+.content {
+    width: 960px;
+    background: #fff;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+h1 {
+    font-weight: 400;
+    letter-spacing: 0.2rem;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
